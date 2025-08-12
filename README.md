@@ -18,3 +18,5 @@ To enable artists, collectors, and galleries to securely tokenize and showcase t
 
 ## 5. Contract Address
 `SP1234567890ABCDEFGHIJKLMN0PQRSTUV.art-gallery-nft`
+<img width="1912" height="865" alt="image" src="https://github.com/user-attachments/assets/1f9c0fa9-72de-4f33-9195-ad766b52da82" />
+
